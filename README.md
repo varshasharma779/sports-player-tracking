@@ -124,6 +124,17 @@ numpy
 -  Ideal for: Sports analytics, soccer video analysis, ID-based player tracking
 
 ---
+##  Manually Adding YOLOv11 Model Weights (`best.pt`)
+
+Due to GitHub file size limits, the trained YOLOv11 weights file (`best.pt`) is **not included** in the repository.
+
+Please follow these steps to add it manually:
+
+1. Upload your `best.pt` YOLOv11 model file to the root directory of this project.
+2. Ensure the file is named exactly `best.pt`.
+
+
+---
 
 ##  Author
 
